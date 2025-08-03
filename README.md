@@ -1,11 +1,14 @@
+> ℹ️ **Info**: This package Fix: revalidate Method Focuses Field Instead of Showing Errors - issue
+
+
 <img width="1223" alt="Screenshot 2023-01-16 at 23 35 59" src="https://user-images.githubusercontent.com/14051960/212780398-0a2512bc-9584-41b2-af04-8cd8aa99b18c.png">
 
 
-[![codecov](https://codecov.io/gh/horprogs/Just-validate/branch/master/graph/badge.svg?token=O6DXXL5TUU)](https://codecov.io/gh/horprogs/Just-validate) <a href="https://bundlephobia.com/result?p=just-validate@latest" target="\_parent"> <img alt="" src="https://badgen.net/bundlephobia/minzip/just-validate@latest" /> </a>
+[![codecov](https://codecov.io/gh/devshamim/Just-validate/branch/master/graph/badge.svg?token=O6DXXL5TUU)](https://codecov.io/gh/devshamim/Just-validate) <a href="https://bundlephobia.com/result?p=just-validate@latest" target="\_parent"> <img alt="" src="https://badgen.net/bundlephobia/minzip/just-validate@latest" /> </a>
 [![npm](https://img.shields.io/npm/dm/just-validate?style=flat)](https://www.npmjs.org/package/just-validate)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6c7a25cc9fdb4bf8869884339418352d)](https://www.codacy.com/gh/horprogs/Just-validate/dashboard?utm_source=github.com\&utm_medium=referral\&utm_content=horprogs/Just-validate\&utm_campaign=Badge_Grade)
-[![Known Vulnerabilities](https://snyk.io/test/github/horprogs/Just-validate/badge.svg)](https://snyk.io/test/github/horprogs/Just-validate)
-[![Release workflow](https://github.com/horprogs/Just-validate/workflows/Test%20and%20Release/badge.svg)](https://github.com/horprogs/Just-validate/actions)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6c7a25cc9fdb4bf8869884339418352d)](https://www.codacy.com/gh/devshamim/Just-validate/dashboard?utm_source=github.com\&utm_medium=referral\&utm_content=devshamim/Just-validate\&utm_campaign=Badge_Grade)
+[![Known Vulnerabilities](https://snyk.io/test/github/devshamim/Just-validate/badge.svg)](https://snyk.io/test/github/devshamim/Just-validate)
+[![Release workflow](https://github.com/devshamim/Just-validate/workflows/Test%20and%20Release/badge.svg)](https://github.com/devshamim/Just-validate/actions)
 
 Modern, simple, lightweight (~5kb gzip) form validation library written in Typescript, with no dependencies (no JQuery!).
 Support a wide range of predefined rules, async, files, dates validation, custom error messages and styles, localization.
